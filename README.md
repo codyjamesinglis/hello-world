@@ -7,7 +7,7 @@ DOB December 5, 1993\
 POB Phoenix, Arizona, USA
 
 Education:\
-MA in Comparative History: Central European University, Budapest, Hungary (June 2018)\
+MA in Comparative History: Central European University, Budapest, Hungary (Aug. 2016–June 2018)\
 BA in Political Science and BA in Philosophy: Arizona State University (Aug. 2013–Dec. 2015)
 
 Currently:\
@@ -16,9 +16,9 @@ Junior Researcher, Institute of Political History, Budapest, Hungary\
     —> Grant Project: European Research Council Consolidator Grant "Negotiating post-imperial transitions" (2018–2022)
  
 Research interests:\
-Comparative Historical Methodology\
+Comparative Methodology in the Humanities and Social Sciences\
 Modern European Intellectual History, History of Political Thought, and Conceptual History (18th–20th Centuries)\
-    —> Particular focus on the "Short Twentieth Century," in particular the interwar period (~1918–1938)\
-    Social and Economic History of East Central Europe (18th–20th Centuries)\
+    —> Focus on the "Short Twentieth Century," in particular the interwar period (~1918–1938)\
+Social and Economic History of Modern East Central Europe (18th–20th Centuries)\
     —> Exploring the uses of quantitative data and quantitative data analysis, combined with traditional qualitative sources, in assessing changes in economic and social structures at different spatial levels of analysis across longue durée temporal frameworks.\
     —> Exploring data analysis tools, their query languages, and their applications for the analysis of large N datasets in a historical perspective and context.
